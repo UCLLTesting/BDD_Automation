@@ -1,0 +1,19 @@
+@CHARSET "UTF-8";
+
+.navbar-dark .navbar-nav a.btn {
+    color: rgba(255, 255, 255, 1);
+}
+
+h1 {
+    margin-bottom: 1em;
+}
+
+footer {
+    text-align: center;
+    margin: 2em auto 1em auto;
+}
+
+.covidPositive {
+    background: #f00;
+    color: #eee;
+}
